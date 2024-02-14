@@ -8,4 +8,4 @@ matplotlib seaborn
 
 ## Run streamlit app
 ...
-streamlit run dashboard.py
+streamlit run Dashboard2.py

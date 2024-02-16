@@ -3,8 +3,7 @@
 ## Setup enviroment
 
 pip install  streamlit
-pip isntall numpy pndas
-matplotlib seaborn
+pip isntall numpy pandas numpy matplotlib seaborn
 
 ## Run streamlit app
 ...
